@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Mathematik 2.Klasse
+email: desijuan89@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Página web de la materia Mathematik de 2do año 2016 dictada en el Instituto Ballester.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+#github_username:  jekyll
+lang: es-AR
+
+# Build settings
+markdown: kramdown
